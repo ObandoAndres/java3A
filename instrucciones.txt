@@ -1,0 +1,3 @@
+Configurar credenciales de usuario		
+$ git config --global user.name "andres felipe obando"
+$ git config --global user.email "andresfelipe241995@gmail.com"
