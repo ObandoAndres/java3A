@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package games;
 
 import java.util.Random;
@@ -15,10 +11,9 @@ import java.util.Scanner;
  * @author Family
  */
 public class Games {
+    
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         // TODO code application logic here
         
@@ -71,6 +66,7 @@ public class Games {
         System.out.println("\n\n\n######################################");
         System.out.println("Dice 1: " + d1);
         System.out.println("Dice 2: " + d2);   
+        
     } 
 }
 
